@@ -8,3 +8,4 @@ Course prepared for [Sofia University](https://www.sofia.edu): Palo Alto facilit
 | N  | Lecture       | Desctription                                 | 
 | -- | ------------- | -------------                                | 
 | 01 | [Introduction](/lectures/lecture_ai_01_2024.pdf)    | Introduction. Course logistics and syllabus. Deep Learning and Neural Nets |
+| 02 | [GenAI](/lectures/lecture_ai_02_2024.pdf)    | Generative AI: GAN, Diffusion |
